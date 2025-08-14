@@ -1,0 +1,13 @@
+{
+  "name": "royal-token",
+  "version": "1.0.0",
+  "description": "Royal Token project",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+  }
+}
