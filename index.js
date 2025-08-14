@@ -19,4 +19,3 @@ bot.onText(/\/play/, (msg) => {
 });
 
 console.log("✅ Royal Token Bot đang chạy...");
-npm install dotenv node-telegram-bot-api
