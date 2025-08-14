@@ -9,5 +9,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-  }
+  "dotenv": "^x.x.x",
+  "node-telegram-bot-api": "^x.x.x"
 }
