@@ -1,16 +1,12 @@
 {
-  "name": "royal-token",
+  "name": "royal-token-game",
   "version": "1.0.0",
-  "description": "Royal Token project",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
   },
-  "author": "",
-  "license": "ISC",
   "dependencies": {
+    "dotenv": "^16.0.0",
+    "node-telegram-bot-api": "^0.61.0"
   }
-}"dependencies": {
-  "dotenv": "^x.x.x",
-  "node-telegram-bot-api": "^x.x.x"
 }
