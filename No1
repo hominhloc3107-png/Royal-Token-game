@@ -10,7 +10,7 @@ if (!token) {
 const bot = new TelegramBot(token, { polling: true });
 
 bot.onText(/\/start/, (msg) => {
-  bot.sendMessage(msg.chat.id, `🎮 Chào ${msg.from.first_name}! Chào mừng đến với Royal Token!\nGõ /play để bắt đầu.`);
+  bot.sendMessage(msg.chat.id, `🎮 Chào ${msg.from.first_name}! Chào mừng đến với Royal Token bot!\nGõ /play để bắt đầu.`);
 });
 
 bot.onText(/\/play/, (msg) => {
